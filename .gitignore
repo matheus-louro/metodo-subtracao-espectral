@@ -1,0 +1,4 @@
+/animacao_fourier/media
+/animacao_fourier/decomposicao_fourier/media
+*/__pycache__/
+animacao_fourier/decomposicao_fourier/__pycache__/
